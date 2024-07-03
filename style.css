@@ -23,9 +23,8 @@ body {
   }
   
   
-  section p {
+  section h2 {
     margin-top: 0;
-    text-align: justify;
   }
   
   img {
@@ -46,15 +45,7 @@ body {
     color: #007BFF;
     text-decoration: none;
   }
-  span:hover{
-    padding: 1rem;
-    background-color: burlywood;
-    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-    transition: all .2s ease-in-out;
-    border-radius: 10%;
-    color: #fff;
-
-  }
+  
   a:hover {
     text-decoration: underline;
     background: rgb(212,171,189);
@@ -62,9 +53,8 @@ body {
     border-radius: 10%;
     padding: 7px;
     transition: all 0.2s ease-in-out;
-    color: #fff;
   }
-  
+ 
   .top{
     display: flex;
     justify-content: center;
